@@ -1,5 +1,8 @@
-# Landing Page do Exercício - Frontend Mentor
+# Dev em Dobro Quest - Projeto Huddle
 
-Descrição
+Quest de HTML e CSS avançados. O exercício é uma Landing page simples do site Frontend Mentor: https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
-Esta é a implementação de uma landing page para o exercício HUDDLE do Frontend Mentor. A página foi projetada para praticar habilidades em HTML e CSS, seguindo o design proposto pelo desafio.
+##Tecnologias Utilizadas
+
+HMTL
+CSS
